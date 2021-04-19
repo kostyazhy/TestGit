@@ -1,18 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+/*
+    Мёрж сцен и работа с большими файлами
+    https://habr.com/ru/post/493488/
 
-public class ReadMe : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
+    Слить ветки
+    https://www.bogotobogo.com/cplusplus/Git/Git_GitHub_Source_Tree_2_Branching_Merging.php
+    
+*/
