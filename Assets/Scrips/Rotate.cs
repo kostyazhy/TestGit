@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Rotate : MonoBehaviour
 {
-    public float speed = 10f;
+    public float speed = 11f;
 
     void Start(){
         speed = Random.Range(0, 1);
