@@ -1,0 +1,6 @@
+diff a/Assets/Scrips/Rotate.cs b/Assets/Scrips/Rotate.cs	(rejected hunks)
+@@ -6,3 +6,3 @@
+ {
+-    public float speed = 10f;
++    public float speed = 20f;
+ 
